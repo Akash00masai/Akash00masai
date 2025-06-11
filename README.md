@@ -7,11 +7,21 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akash00masai](https://github.com/Akash00masai)
 
-- 📫 How to reach me **Email : rathour.akash00@gmail.com,Linkedin : https://www.linkedin.com/in/akash-singh-rathour/**
+- 📫 How to reach me
+- **Email : rathour.akash00@gmail.com**
+- **Linkedin : https://www.linkedin.com/in/akash-singh-rathour/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qTlYsGmu1izjGLmfIsQ2xbiQ8nzSz_Bv/view?usp=sharing](https://drive.google.com/file/d/1qTlYsGmu1izjGLmfIsQ2xbiQ8nzSz_Bv/view?usp=sharing)
+- 📄 Resume : [https://drive.google.com/file/d/1qTlYsGmu1izjGLmfIsQ2xbiQ8nzSz_Bv/view?usp=sharing] (https://drive.google.com/file/d/1qTlYsGmu1izjGLmfIsQ2xbiQ8nzSz_Bv/view?usp=sharing)
 
-- ⚡ Fun fact **🔍 I treat messy datasets like puzzles — and I love solving them! 🧠 I can spend hours debugging code but still forget where I put my keys. 💬 I speak fluent Python (but still learning human languages). 🎯 I believe good data tells better stories than words ever could. 🌱 Currently growing my skills one dataset at a time. 🐍 Python is my spirit animal. 📊 I find data visualization more satisfying than watching Netflix (almost 😄). 💡 My happy place: A clean dataset, a cup of coffee, and a new problem to solve.**
+- ⚡ Fun fact
+- **🔍 I treat messy datasets like puzzles — and I love solving them!
+- 🧠 I can spend hours debugging code but still forget where I put my keys.
+- 💬 I speak fluent Python (but still learning human languages).
+- 🎯 I believe good data tells better stories than words ever could.
+- 🌱 Currently growing my skills one dataset at a time.
+- 🐍 Python is my spirit animal.
+-  📊 I find data visualization more satisfying than watching Netflix (almost 😄).
+-  💡 My happy place: A clean dataset, a cup of coffee, and a new problem to solve.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
