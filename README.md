@@ -66,7 +66,7 @@ Feel free to connect with me and explore data-related projects I've worked on!
 ---
 
 ### 📫 Contact Me
-- **Resume**: [View Here]([https://drive.google.com/file/d/1qTlYsGmu1izjGLmfIsQ2xbiQ8nzSz_Bv/view?usp=sharing](https://drive.google.com/file/d/1-meB1QuLd_33IubRH17Gtyf9pvJxnieA/view?usp=sharing))  
+- **Resume**: [View Here](https://drive.google.com/file/d/1-meB1QuLd_33IubRH17Gtyf9pvJxnieA/view?usp=sharing) 
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="(https://www.linkedin.com/in/akash-singh-rathour/)"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
